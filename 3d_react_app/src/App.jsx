@@ -24,7 +24,7 @@ function App() {
         >
           
     <Billing />
-    <Hero />
+    
     <Business />
     <States />
     
